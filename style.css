@@ -19,4 +19,10 @@ body {
     letter-spacing: 2px;
     color:rgb(251, 249, 249);
   }
+  .hero p {
+    font-size: 1.2rem;
+    margin-bottom: 30px;
+    font-weight: 400;
+    color: #fbf9f9;
+  }
   
